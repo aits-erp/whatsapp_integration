@@ -5,6 +5,9 @@ app_description = "whatsapp_integration test"
 app_email = "pankajal2099@gmail.com"
 app_license = "mit"
 
+
+
+fixtures = ["Custom Field", "DocType"]
 # Apps
 # ------------------
 
